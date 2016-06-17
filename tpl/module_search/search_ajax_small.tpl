@@ -3,7 +3,7 @@
 <!-- available placeholders: action, search_term -->
 <search_form>
     <form name="searchResultFormSmall" method="post" action="%%action%%" accept-charset="UTF-8" class="form-inline ">
-            <input type="text" name="searchterm" id="resultSearchtermSmall" value="%%search_term%%" class="form-control" placeholder="[lang,searchterm_label,search]"
+            <input type="text" name="searchterm" id="resultSearchtermSmall" value="" class="form-control" placeholder="[lang,searchterm_label,search]"
                onkeyup="KAJONA.portal.searchSmall.queryBackend();"
                 autocomplete="off" />
         <div id="searchResultSmall" class="card " style="display: none; position: absolute;  max-width: 400px; min-width: 200px;"></div>

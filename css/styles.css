@@ -164,6 +164,10 @@ hr {
         padding-left: 10px; }
         .default-body .navi-container .mainnav ul li ul a {
           font-size: 1.0rem; }
+.default-body .filedetail {
+  padding-bottom: 10px; }
+  .default-body .filedetail img {
+    margin: 5px; }
 
 .home-banner-container {
   min-height: 495px;

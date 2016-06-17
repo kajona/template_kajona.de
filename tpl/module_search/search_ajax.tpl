@@ -5,7 +5,7 @@
     <form name="searchResultForm" method="post" action="%%action%%" accept-charset="UTF-8">
         <fieldset class="form-group">
             <label for="resultSearchterm">[lang,searchterm_label,search]</label>
-            <input type="text" name="searchterm" id="resultSearchterm" value="%%search_term%%" class="form-control" onkeyup="KAJONA.portal.search.queryBackend();" placeholder="[lang,searchterm_label,search]" />
+            <input type="text" name="searchterm" id="resultSearchterm" value="" class="form-control" onkeyup="KAJONA.portal.search.queryBackend();" placeholder="[lang,searchterm_label,search]" />
         </fieldset>
         <fieldset class="form-group">
             <button type="submit" class="btn btn-primary">[lang,submit_label,search]</button>

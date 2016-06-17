@@ -89,6 +89,11 @@
                         </kajona-block>
 
 
+                        <kajona-block kajona-name="Search">
+                            %%search_search%%
+                        </kajona-block>
+
+
                         <kajona-block kajona-name="Paragraph">
                             <p>%%paragraph_richtext%%</p>
                         </kajona-block>
@@ -132,6 +137,26 @@
                         <kajona-block kajona-name="Sitemap">
                             %%sitemap_navigation%%
                         </kajona-block>
+
+
+                        <kajona-block kajona-name="Baseregistration">
+                            %%register_baseregistration%%
+                        </kajona-block>
+
+                        <kajona-block kajona-name="Portallogin">
+                            %%login_portallogin%%
+                        </kajona-block>
+
+                        <kajona-block kajona-name="Baseupload">
+                            %%upload_baseupload%%
+                        </kajona-block>
+
+                        <kajona-block kajona-name="Mybase">
+                            %%my_mybase%%
+                        </kajona-block>
+
+
+
 
                     </kajona-blocks>
 
