@@ -80,70 +80,26 @@
                             <h1>%%headeline_plaintext%%</h1>
                         </kajona-block>
 
-                        <kajona-block kajona-name="Hint">
-                            <div class="alert alert-info">%%paragraph_richtext%%</div>
-                        </kajona-block>
-
-                        <kajona-block kajona-name="Warning">
-                            <div class="alert alert-danger">%%paragraph_richtext%%</div>
-                        </kajona-block>
-
-
-                        <kajona-block kajona-name="Search">
-                            %%search_search%%
-                        </kajona-block>
-
-
                         <kajona-block kajona-name="Paragraph">
                             <p>%%paragraph_richtext%%</p>
                         </kajona-block>
 
 
-                        <kajona-block kajona-name="Languageredirect">
-                            %%redirect_languageredirect%%
+                        <kajona-block kajona-name="Portallogin">
+                            %%login_portallogin%%
                         </kajona-block>
 
-                        <kajona-block kajona-name="Markdown File">
-                            %%link_markdown%%
+                        <kajona-block kajona-name="Baseregistration">
+                            %%register_baseregistration%%
                         </kajona-block>
 
-
-                        <kajona-block kajona-name="News">
-                            %%news_news%%
+                        <kajona-block kajona-name="Mybase">
+                            %%my_mybase%%
                         </kajona-block>
 
-                        <kajona-block kajona-name="Gallery">
-                            %%gallery_gallery%%
+                        <kajona-block kajona-name="Baseupload">
+                            %%upload_baseupload%%
                         </kajona-block>
-
-                        <kajona-block kajona-name="Downloads">
-                            %%downloads_downloads%%
-                        </kajona-block>
-
-                        <kajona-block kajona-name="Form">
-                            %%form_form%%
-                        </kajona-block>
-
-
-                        <kajona-block kajona-name="Dirlist">
-                            %%directory_directorybrowser%%
-                        </kajona-block>
-
-
-                        <kajona-block kajona-name="faq">
-                            %%faq_faqs%%
-                        </kajona-block>
-
-                        <kajona-block kajona-name="Sitemap">
-                            %%sitemap_navigation%%
-                        </kajona-block>
-
-
-                        <kajona-block kajona-name="Baselist">
-                            %%list_baselist%%
-                        </kajona-block>
-
-
 
 
                     </kajona-blocks>
@@ -151,7 +107,6 @@
 
 
 
-                    <div class="postacomment-standard-wrapper">%%masterpac_postacomment%%</div>
                 </div>
 
 
