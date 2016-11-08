@@ -91,13 +91,11 @@
 
         <div class="col-md-4">Size: %%file_size%%</div>
         <div class="col-md-4"><div class="pull-xs-right">%%file_rating%%</div></div>
-        <div class="col-md-4"></div>
+        <div class="col-md-4 pull-right"><a href="%%file_link_href%%" class="pull-right"><i class="fa fa-cloud-download"></i></a></div>
 
 
 
-        <div class="col-md-4">
-            <div class="pull-xs-right" id="qr_%%file_systemid%%" ><script type='text/javascript'>if(('[qrcode,%%file_link_href%%,2]').substr(0,8) != '[qrcode,') $("#qr_%%file_systemid%%").html('<img src="[qrcode,%%file_link_href%%,2]" />');</script></div>
-        </div>
+
 
 
         <div class="col-sm-12">%%screen_1%%%%screen_2%%%%screen_3%%</div>
