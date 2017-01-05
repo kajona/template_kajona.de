@@ -130,7 +130,7 @@
     <div class="content-headline">&nbsp;</div>
     <div class="row">
         <div class="col-md-6 copyright-row">
-            <a href="_webpath_/impressum.html">Copyright &copy; 2016 Kajona Open Source Content Management Framework</a></div>
+            <a href="_webpath_/impressum.html">Copyright &copy; 2017 Kajona Open Source Content Management Framework</a></div>
         <div class="col-md-6 commercial">
             <a style="background:url(_webpath_/templates/kajondev5/pics/footer_icon-ohloh.png);" href="https://www.openhub.net/p/kajona"></a>
             <a style="background:url(_webpath_/templates/kajondev5/pics/footer_icon-facebook.png);" href="https://www.facebook.com/KajonaCMS"></a>
